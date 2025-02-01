@@ -7,4 +7,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: http://m.mniip.com/sitemap.xml
+Sitemap: http://m.techsquat.com/sitemap.xml
